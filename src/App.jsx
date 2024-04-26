@@ -1,5 +1,4 @@
-import { Container } from "./components/Container";
-import "./App.css";
+import Container from "./components/Container";
 
 const App = () => {
   return (

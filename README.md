@@ -2,15 +2,15 @@
 
 # Desktop
 
-![desktop](desktop.png)
+![desktop](./src/assets/desktop.png)
 
 # Tablet
 
-![tablet](tablet.png)
+![tablet](./src/assets/tablet.png)
 
 # Mobile
 
-![mobile](mobile.png)
+![mobile](./src/assets/mobile.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -13,9 +13,9 @@ const Pokemon = ({ pokemon }) => {
       <div className="flex justify-center items-center p-5">
         <img className="size-48" src={pokemon.image} alt={pokemon.name} title={pokemon.name} />
       </div>
-      <div className="grid gap-1 grid-cols-3 p-1">
+      <div className="grid gap-1 grid-cols-3 p-0.5">
         {pokemon.attacks.special.slice(0, 3).map(attack => (
-          <span className="bg-red-500 text-sm font-normal text-white text-center rounded-md m-1 p-1" key={`${attack.name}-${attack.damage}`}>
+          <span className="bg-red-500 text-sm font-normal text-white text-center rounded-md m-0.5 p-0.5" key={`${attack.name}-${attack.damage}`}>
             {attack.name}
           </span>
         ))}

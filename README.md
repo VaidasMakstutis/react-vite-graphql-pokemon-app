@@ -1,8 +1,14 @@
 # Full Responsive Pokemon App
 
+# Desktop
+
 ![desktop](desktop.png)
 
+# Tablet
+
 ![tablet](tablet.png)
+
+# Mobile
 
 ![mobile](mobile.png)
 

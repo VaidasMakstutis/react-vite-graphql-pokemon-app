@@ -1,4 +1,4 @@
-# Full Responsive Pokemon App
+# Responsive Pokemon App
 
 # Desktop
 

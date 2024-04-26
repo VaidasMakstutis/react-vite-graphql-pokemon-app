@@ -1,4 +1,16 @@
-# React + Vite
+# Responsive Pokemon App
+
+# Desktop
+
+![desktop](desktop.png)
+
+# Tablet
+
+![tablet](tablet.png)
+
+# Mobile
+
+![mobile](mobile.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
